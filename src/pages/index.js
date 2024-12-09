@@ -27,12 +27,14 @@ const IndexPage = () => {
 
   return (
     <Layout disablePaddingBottom>
+
+    <script src="https://assets.adobedtm.com/cf0f8dbc2470/db1f864773b0/launch-91be94fde3fc-development.min.js" async></script>
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
+        title={'Swisscom Ad blocker text'}
+        subtitle={'Firing via launch vs sftp'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
